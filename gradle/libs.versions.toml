@@ -2,7 +2,7 @@
 # https://mvnrepository.com/artifact/org.yaml/snakeyaml
 snakeyaml = "2.2"
 # https://mvnrepository.com/artifact/org.apache.derby/derby
-derby = "10.16.1.1"
+derby = "10.17.1.0"
 # https://mvnrepository.com/artifact/org.slf4j/slf4j-api
 slf4j = "2.0.13"
 # https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
